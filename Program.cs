@@ -109,11 +109,9 @@ namespace homeWorkFigthToBoss
 
             while (bossHealth > death && heroHealth > death)
             {
-                
-
                 while (isWork)
                 {
-                    Console.WriteLine("Greetings hero, the challenge of battle awaits you");
+                    Console.WriteLine("The challenge of battle awaits you");
 
                     Console.WriteLine("        | |");
                     Console.WriteLine("       |   |");
